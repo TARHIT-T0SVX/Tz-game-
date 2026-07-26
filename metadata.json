@@ -1,0 +1,6 @@
+{
+  "name": "Clash Mini Heroes",
+  "description": "A Clash of Clans-inspired 3D action strategy game featuring controllable heroes, spells, boss fights, and village upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
